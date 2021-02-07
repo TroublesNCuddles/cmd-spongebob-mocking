@@ -1,0 +1,14 @@
+{
+  "name": "cmd-spongebob-mocking",
+  "version": "1.0.0",
+  "description": "Command line version of spongebob mocking",
+  "main": "src/index.js",
+  "bin": {
+    "mock": "bin/mock.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TroublesNCuddles <Development@TroublesNCuddl.es>",
+  "license": "MIT"
+}
